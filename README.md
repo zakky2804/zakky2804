@@ -17,8 +17,8 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 
 
 ---
-
 ### 🛠️ Languages and Tools
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,10 +26,9 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge&logo=recharts&logoColor=white)
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
-
