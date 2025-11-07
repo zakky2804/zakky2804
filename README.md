@@ -31,10 +31,4 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
-<img 
-  src="assets/nginx.svg" 
-  alt="Zustand" 
-  height="20"
-  style="vertical-align: middle; margin-right: 8px; background: #443C52; padding: 6px; border-radius: 6px;"
-/>
-<span style="background: #443C52; color: white; padding: 6px 12px; border-radius: 6px; font-family: Arial, sans-serif; font-size: 13px; font-weight: 600;">Zustand</span>
+![Zustand](https://img.shields.io/badge/Zustand%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
