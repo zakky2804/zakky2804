@@ -2,11 +2,7 @@
 
 **`Frontend Developer (Next.js / React / Tailwind CSS)`**
 
-I'm a passionate frontend developer crafting modern and responsive web experiences.  
-I love building clean, performant, and visually appealing interfaces — from concept and design to deployment.  
-Every project I create is built with precision, creativity, and the goal of delivering seamless user experiences.
-
-
+I'm a passionate frontend developer crafting modern and responsive web experiences. I love building clean, performant, and visually appealing interfaces — from concept and design to deployment. Every project I create is built with precision, creativity, and the goal of delivering seamless user experiences.
 
 ### 🚀 A Passionate Frontend Developer
 
