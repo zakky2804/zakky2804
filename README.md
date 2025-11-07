@@ -15,8 +15,8 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 - 👨‍💻 Explore my work at **[fakhri-muzakki.vercel.app](https://fakhri-muzakki.vercel.app)**
 - 📄 View my resume at **[fakhri-muzakki.vercel.app/resume.pdf](https://fakhri-muzakki.vercel.app/resume.pdf)**
 
-
 ---
+
 ### 🛠️ Languages and Tools
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -26,7 +26,8 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=https://raw.githubusercontent.com/zakky2804/zakky2804/assets/zustand-logo.png&logoColor=white)
+
 ![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge&logo=recharts&logoColor=white)
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
