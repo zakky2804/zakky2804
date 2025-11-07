@@ -15,17 +15,6 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 - 👨‍💻 Explore my work at **[fakhri-muzakki.vercel.app](https://fakhri-muzakki.vercel.app)**
 - 📄 View my resume at **[fakhri-muzakki.vercel.app/resume.pdf](https://fakhri-muzakki.vercel.app/resume.pdf)**
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/zakky2804" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/fakhrimuzakki" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
