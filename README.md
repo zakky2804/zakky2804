@@ -31,5 +31,4 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
-
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=https://raw.githubusercontent.com/zakky2804/zakky2804/assets/nginx.svg&logoColor=white)
+![Zustand](assets/nginx.svg)
