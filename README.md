@@ -37,7 +37,7 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
   <rect width="120" height="32" rx="6" fill="#443C52"/>
   
   <!-- Icon (embed atau path SVG) -->
-  <image x="8" y="6" width="20" height="20" href="asset/zustand-icon.svg"/>
+  <image x="8" y="6" width="20" height="20" href="zustand-icon.svg"/>
   
   <!-- Text -->
   <text x="65" y="20" 
