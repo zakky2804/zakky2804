@@ -30,7 +30,7 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![Zustand](https://img.shields.io/badge/Zustand-121212?style=for-the-badge&logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Recharts](https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge&logoColor=white)
-![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
+
+![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
