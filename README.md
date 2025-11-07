@@ -31,4 +31,21 @@ I'm a passionate frontend developer crafting modern and responsive web experienc
 ![Embla Carousel](https://img.shields.io/badge/Embla%20Carousel-121212?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/@tanstack/react--table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)
-<img src="assets/nginx.svg" alt="Zustand" width="50">
+<!-- zustand-badge.svg -->
+<svg width="120" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background container -->
+  <rect width="120" height="32" rx="6" fill="#443C52"/>
+  
+  <!-- Icon (embed atau path SVG) -->
+  <image x="8" y="6" width="20" height="20" href="asset/zustand-icon.svg"/>
+  
+  <!-- Text -->
+  <text x="65" y="20" 
+        font-family="Arial, sans-serif" 
+        font-size="13" 
+        font-weight="600"
+        fill="#FFFFFF" 
+        text-anchor="middle">
+    Zustand
+  </text>
+</svg>
